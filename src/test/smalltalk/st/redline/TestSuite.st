@@ -6,3 +6,4 @@ Object < #TestSuite
   IntegerTest new; test.
   NumberTest new; test.
   ObjectTest new; test.
+  SetTest new; test.
